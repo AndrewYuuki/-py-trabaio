@@ -1,0 +1,6 @@
+nome = input('qual seu nome? ')
+idade = input('qual sua idade? ')
+altura = input('qual sua altura? ')
+cidade = input('qual sua cidade? ')
+estado = input('qual seu estado? ')
+print(f'Olá, meu nome é {nome}, tenho {idade} anos de idade. Moro na cidade de {cidade}/{estado}')
